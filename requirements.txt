@@ -1,0 +1,8 @@
+numpy
+opencv-python
+mediapipe
+scikit-learn
+matplotlib
+scipy
+seaborn
+playsound
